@@ -1,0 +1,1 @@
+d:\vault\vault server -config d:\vault\config.hcl
